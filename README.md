@@ -36,7 +36,7 @@ MediAlert helps prevent missed doses, reduces health risks, and makes medication
 📦 Installation
 
 # Clone the repository
-git clone https://github.com/YourUsername/MediAlert.git
+git clone https://github.com/Melroy-lobo/MediAlert.git
 
 # Open in Android Studio
 cd MediAlert
